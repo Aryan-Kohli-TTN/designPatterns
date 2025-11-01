@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aa0b135-3062-4aa6-9428-3bb5c2aa9808" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/builder.iml" afterDir="false" />
-    </list>
+    <list default="true" id="6aa0b135-3062-4aa6-9428-3bb5c2aa9808" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1762011039094</updated>
       <workItem from="1762011040212" duration="2000" />
-      <workItem from="1762011064067" duration="626000" />
+      <workItem from="1762011064067" duration="885000" />
     </task>
     <servers />
   </component>
